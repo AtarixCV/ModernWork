@@ -58,7 +58,9 @@ $apps = @(
     @{name = "Snagit 2021"},
     @{name = "VLC media player"},
     @{name = "PowerShell 7.3.10.0-x64"},
-    @{name = "Spotify"}
+    @{name = "Spotify"},
+    @{name = "Microsoft Loop"},
+    @{name = "ClickUp 3.3.79"}
     
     
 	
