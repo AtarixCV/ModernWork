@@ -51,9 +51,16 @@ $apps = @(
     @{name = "9NP355QT2SQB"; source = "msstore" }, ##Azure VPN
     @{name = "Microsoft.WindowsTerminal"; source = "msstore" }, 
     @{name = "Microsoft.Azure.StorageExplorer" }, 
-    @{name = "Google.Chrome  -e" },
+    @{name = "Google Chrome" },
     @{name = "Microsoft.VisualStudioCode" }, 
-    @{name = "Microsoft.PowerToys" }
+    @{name = "Microsoft.PowerToys" },
+    @{name = "Remote Desktop"},
+    @{name = "Snagit 2021"},
+    @{name = "VLC media player"},
+    @{name = "PowerShell 7.3.10.0-x64"},
+    @{name = "Spotify"}
+    
+    
 	
 );
 Foreach ($app in $apps) {
