@@ -105,7 +105,6 @@ $apps = @(
 	@{name = "Feedback Hub" },
 	@{name = "Windows Sound Recorder" },
 	@{name = "Phone Link" },
-	@{name = "Microsoft Teams" }
  	@{name = "Groove Music" }
   	@{name = "Your Phone" }
    	@{name = "Xbox Game Bar Plugin" }
